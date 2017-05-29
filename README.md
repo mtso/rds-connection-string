@@ -1,4 +1,4 @@
-# RDS Connection String
+# RDS Connection String [![Build Status](https://travis-ci.org/mtso/rds-connection-string.svg?branch=master)](https://travis-ci.org/mtso/rds-connection-string)
 
 Drop-in connection URI builder for RDS data stores.
 

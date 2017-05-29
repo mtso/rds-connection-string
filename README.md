@@ -10,6 +10,6 @@ npm install --save rds-connection-string
 
 ## Usage
 
-```
+```js
 const connectionString = require('rds-connection-string')({scheme: 'postgres'});
 ```
